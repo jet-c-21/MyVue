@@ -1,9 +1,9 @@
 export const users = [
   {
     "id": 1,
-    "username": "_MitchellRomney",
-    "firstName": "Mitchell",
-    "lastName": "Romney",
+    "username": "weiwei_vayne",
+    "firstName": "Wei Wei",
+    "lastName": "Vayne",
     "email": "mitchellromney@theearthissquare.com",
     "isAdmin": true,
     "twoots": [
